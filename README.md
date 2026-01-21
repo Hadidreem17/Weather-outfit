@@ -19,7 +19,6 @@ The app fetches weather data from OpenWeatherMap and provides outfit suggestions
 - Client-side routing with React Router
 - Global state management using Context API
 - Custom React hooks
-- Basic unit testing with Vitest
 
 ---
 
@@ -39,7 +38,6 @@ The app fetches weather data from OpenWeatherMap and provides outfit suggestions
 - Context API
 - Custom Hooks
 - OpenWeatherMap API
-- Vitest (basic unit testing)
 - CSS (custom styling)
 
 ---
